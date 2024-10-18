@@ -1,0 +1,4 @@
+*.pdf
+outputs/*
+barcodes.json
+node_modules
